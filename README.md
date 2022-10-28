@@ -1,1 +1,1 @@
-clash
+clash.yml模板
